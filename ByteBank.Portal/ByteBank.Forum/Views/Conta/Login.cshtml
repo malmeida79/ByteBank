@@ -1,0 +1,17 @@
+﻿@model ByteBank.Forum.ViewModels.TopicoCriarViewModel
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+@using (@Html.BeginForm())
+{
+    @Html.ValidationSummary("", new { @class = "text-danger" });
+
+    @Html.EditorForModel();
+
+    @Html.ActionLink("Esqueci minha senha", "EsqueciSenha");
+
+    <input type="submit" value="Fazer Login" />
+}

@@ -1,0 +1,8 @@
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\ByteBank\ByteBank.Portal\ByteBank.Portal\bin\Debug\ByteBank.Portal.exe.config
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\ByteBank\ByteBank.Portal\ByteBank.Portal\bin\Debug\ByteBank.Portal.exe
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\ByteBank\ByteBank.Portal\ByteBank.Portal\bin\Debug\ByteBank.Portal.pdb
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\ByteBank\ByteBank.Portal\ByteBank.Portal\obj\Debug\ByteBank.Portal.csprojResolveAssemblyReference.cache
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\ByteBank\ByteBank.Portal\ByteBank.Portal\obj\Debug\ByteBank.Portal.exe
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\ByteBank\ByteBank.Portal\ByteBank.Portal\obj\Debug\ByteBank.Portal.pdb
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\ByteBank\ByteBank.Portal\ByteBank.Portal\bin\Debug\ByteBank.Service.dll
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\ByteBank\ByteBank.Portal\ByteBank.Portal\bin\Debug\ByteBank.Service.pdb
